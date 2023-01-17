@@ -1,4 +1,4 @@
-# Repository for python learning and knowledge improvment
+# Repository for python learning and knowledge improvement
 
 <!-- 
     TUDO em python é um objeto
